@@ -1,0 +1,20 @@
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\bin\Debug\net6.0-windows\Spotlight search.exe
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\bin\Debug\net6.0-windows\Spotlight search.deps.json
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\bin\Debug\net6.0-windows\Spotlight search.runtimeconfig.json
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\bin\Debug\net6.0-windows\Spotlight search.dll
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\bin\Debug\net6.0-windows\Spotlight search.pdb
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.csproj.AssemblyReference.cache
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\App.g.cs
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search_MarkupCompile.cache
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.g.resources
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.AssemblyInfoInputs.cache
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.AssemblyInfo.cs
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.csproj.CoreCompileInputs.cache
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.dll
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\refint\Spotlight search.dll
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.pdb
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\Spotlight search.genruntimeconfig.cache
+D:\Projects\Under Development\AI\PBL-SE\Spotlight search\obj\Debug\net6.0-windows\ref\Spotlight search.dll
